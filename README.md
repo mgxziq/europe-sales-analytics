@@ -22,7 +22,7 @@ Understanding market-level dynamics, product profit margins, and distribution ef
 
 ## 📊 Dashboard Architecture & Pages
 
-The Power BI report (`1.pbix`) is structured into two core interactive pages:
+The Power BI report (`Europe Sales Records.pbix`) is structured into two core interactive pages:
 
 ### Page 1: Executive Overview & Financial Performance
 - **KPI Cards:** Displaying real-time aggregated metrics for **Units Sold**, **Total Profit**, **Total Revenue**, **Total Cost**, and **Profit Margin (%)**.
@@ -42,6 +42,6 @@ The Power BI report (`1.pbix`) is structured into two core interactive pages:
 ## 📁 Repository Structure
 
 ```text
-├── 1.pbix                        # Main Power BI Report file containing layout & data model
+├── Europe Sales Records.pbix                        # Main Power BI Report file containing layout & data model
 ├── Europe Sales Records.xlsx     # Source transactional dataset
 └── README.md                     # Documentation file
