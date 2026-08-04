@@ -1,6 +1,3 @@
-# europe-sales-analytics
-An interactive Power BI dashboard analyzing sales performance, profitability metrics, cross-channel trends, and spatial distribution across European markets using DAX and dynamic visual analytics.
-
 # Europe Sales Performance Dashboard & Analytics
 
 An interactive **Power BI** report designed to analyze sales records, revenue streams, costs, and net profitability across European markets. Built using **Europe Sales Records** data, this project delivers comprehensive key performance indicators (KPIs), geographical distributions, product segmentations, and cross-channel performance insights.
